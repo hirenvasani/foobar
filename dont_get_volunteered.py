@@ -72,7 +72,7 @@ def answer(src, dest):
     return board[dx][dy]
 
 #print answer(19, 36)
-# Answer 31
+# Answer 1
 
 print answer(0, 1)
 # Answer 3
